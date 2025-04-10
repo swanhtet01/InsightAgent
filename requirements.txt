@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+openai
+python-dotenv
+plotly
+nest_asyncio
+polars
+weasyprint
+chardet
+openpyxl
+flask
